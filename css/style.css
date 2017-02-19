@@ -1,0 +1,62 @@
+* {
+ margin: 0;
+}
+
+
+
+#Haut {
+
+  background:#20B2AA;
+  height:12vh;
+  width:100vw;
+
+
+}
+#Menu {
+  background: #8B008B ;
+  height: 5vh;
+  width: 100vw;
+
+}
+#A {
+  margin-top: 3vh ;
+  background: #48D1CC ;
+  height: 30vh;
+  width: 50vw;
+  margin-left: 3vw;
+
+
+}
+#B {
+  margin-top: 3vh ;
+  background: #FFD700 ;
+  height: 30vh;
+  width: 50vw;
+  float: right;
+  margin-right: 3vw;
+
+}
+#C {
+  background: #BA55D3;
+  height: 35vh;
+  width: 50vw;
+  margin-left: 3vw;
+
+}
+#D {
+  background: #0000CD ;
+  height: 35vh;
+  width: 50vw;
+  float: right;
+  margin-right: 3vw;
+}
+#Bas {
+  background: #48D1CC;
+  height: 15vh;
+  width: 100vw;
+  margin-top: 5vh;
+}
+
+p {
+  z-index: 50;
+}
